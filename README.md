@@ -30,6 +30,11 @@ Magisk Detector(icu.nullptr.nativetest) -
 "Magisk Hide Detection"
 ```
 
+Magisk Detector(io.github.vvb2060.magiskdetector) -
+```sh
+"Magisk Detection"
+"Magisk Hide Detection"
+
 Momo(io.github.vvb2060.mahoshojo) -
 ```sh
 "Frida Detection"
