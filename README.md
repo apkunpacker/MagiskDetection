@@ -25,3 +25,10 @@ Hunter -
 
 "Magisk hide detection"
 ```
+
+Magisk Detector -
+```sh
+"Magisk Detection"
+
+"Magisk Hide Detection"
+```
