@@ -42,6 +42,7 @@ Momo(io.github.vvb2060.mahoshojo) -
 "System Files Modified By Magisk Detection"
 "Package Manager abnormal Detection"
 "Custom ROM Detection"
+"SELinux State Detection"
 ``` 
 
 NativeTest(icu.nullptr.nativetest) -
@@ -49,6 +50,17 @@ NativeTest(icu.nullptr.nativetest) -
 "Magisk Detection"
 "Magisk Hide Detection"
 ```
+
+Oprek Detector(com.godevelopers.OprekCek) -
+```sh
+"Root Specific App Checks"
+"Magisk Detection"
+"Magisk Module Detection"
+"SU Binary Detection"
+"SELinux State Detection"
+"Xposed Detection"
+```
+
 SafeCheck(com.ysh.hookapkverify) -
 ```sh
 "Application Signature Detection"
