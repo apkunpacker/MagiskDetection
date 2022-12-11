@@ -27,7 +27,7 @@ Hunter(com.zhenxi.hunter) -
 Magisk Detector(icu.nullptr.nativetest) -
 ```sh
 "Magisk Detection"
-"Magisk Hide Detection"
+"MagiskHide Detection"
 ```
 
 Momo(io.github.vvb2060.mahoshojo) -
