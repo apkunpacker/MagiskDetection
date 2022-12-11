@@ -61,6 +61,17 @@ Oprek Detector(com.godevelopers.OprekCek) -
 "Xposed Detection"
 ```
 
+Ruru(com.byxiaorun.detector) -
+```sh
+"Root Specific Apps Check w/o Syscalls"
+"Root Specific Apps Check with PackageManager"
+"Xposed Hook Detection"
+"Magisk Binary Detection"
+"Zygisk Detection"
+"Riru Detection"
+"Prop Detection"
+```
+
 SafeCheck(com.ysh.hookapkverify) -
 ```sh
 "Application Signature Detection"
