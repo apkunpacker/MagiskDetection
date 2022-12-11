@@ -83,7 +83,7 @@ SafeCheck(com.ysh.hookapkverify) -
 ```
 
 
-Hash of Each Files(Just to trace them back on VT/Koodous or somewhere else)
+SHA256 of Each Files(Just to trace them back on VT/Koodous or somewhere else)
 
 ```sh
 52141ed109fb3e199d714deb99f0f794706de8420b180872c9801dbf247dbb80
