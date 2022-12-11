@@ -1,7 +1,7 @@
 # MagiskDetection
 Collection of some publically available poc apps to detect for magisk presence 
 
-These applications have following detectios:
+These applications have following detections:
 
 Hunter -
 ```sh
