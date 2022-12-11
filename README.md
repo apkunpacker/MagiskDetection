@@ -2,6 +2,7 @@
 Collection of Some Publically Available POC Apps to Detect Root/Magisk presence. 
 
 These applications have following detections:
+
 Detect Magisk -
 ```sh
 "Magisk Detection"
