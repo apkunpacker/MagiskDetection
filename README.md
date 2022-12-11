@@ -24,12 +24,6 @@ Hunter(com.zhenxi.hunter) -
 "Custom ROM Detection"
 ```
 
-Magisk Detector(icu.nullptr.nativetest) -
-```sh
-"Magisk Detection"
-"Magisk Hide Detection"
-```
-
 Magisk Detector(io.github.vvb2060.magiskdetector) -
 ```sh
 "Magisk Detection"
@@ -50,6 +44,11 @@ Momo(io.github.vvb2060.mahoshojo) -
 "Custom ROM Detection"
 ``` 
 
+NativeTest(icu.nullptr.nativetest) -
+```sh
+"Magisk Detection"
+"Magisk Hide Detection"
+```
 SafeCheck(com.ysh.hookapkverify) -
 ```sh
 "Application Signature Detection"
