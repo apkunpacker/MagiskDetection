@@ -32,3 +32,20 @@ Magisk Detector -
 
 "Magisk Hide Detection"
 ```
+
+Momo -
+```sh
+"Magisk Detection"
+
+"Zygisk Detection"
+
+"Magisk Modules Detection"
+
+"Debugging Mode Detection"
+
+"Developer Mode Detection"
+
+"Bootloader Detection"
+
+"System Files Modified By Magisk Detection"
+``` 
