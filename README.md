@@ -4,7 +4,8 @@ Collection of some publically available poc apps to detect for magisk presence
 These applications have following detectios:
 
 Hunter -
-"Apk Signatur"
+```sh
+"Apk Signature"
 
 "Magisk&root"
 
@@ -23,3 +24,4 @@ Hunter -
 "ISO strong detection"
 
 "Magisk hide detection"
+```
