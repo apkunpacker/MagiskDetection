@@ -6,7 +6,7 @@ These applications have following detections:
 Detect Magisk(com.darvin.security) -
 ```sh
 "Magisk Detection"
-"MagiskHide Detection"
+"Magisk Hide Detection"
 ```
 
 Hunter(com.zhenxi.hunter) -
@@ -20,14 +20,14 @@ Hunter(com.zhenxi.hunter) -
 "Key function inlinehook & got table Detection"
 "Anti-Debugging Detection"
 "ISO strong Detection"
-"Magisk hide Detection"
+"Magisk Hide Detection"
 "Custom ROM Detection"
 ```
 
 Magisk Detector(icu.nullptr.nativetest) -
 ```sh
 "Magisk Detection"
-"MagiskHide Detection"
+"Magisk Hide Detection"
 ```
 
 Momo(io.github.vvb2060.mahoshojo) -
@@ -49,7 +49,7 @@ SafeCheck(com.ysh.hookapkverify) -
 "Application Signature Detection"
 "Magisk SU Detection"
 "Syscall Hook Detection"
-"MagiskHide Detection"
+"Magisk Hide Detection"
 "Zygisk Detection"
 "Riru Detection"
 ```
