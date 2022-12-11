@@ -1,23 +1,23 @@
 # MagiskDetection
-Collection of some publically available poc apps to detect for magisk presence 
+Collection of Some Publically Available POC Apps to Detect Root/Magisk presence. 
 
 These applications have following detections:
 
 Hunter -
 ```sh
-"Apk Signature"
+"Apk Signature Verification"
 
-"Magisk&root"
+"Magisk & Root Detection"
 
 "Sandbox & Sandbox Detection"
 
-"Frida&IDA Detection"
+"Frida & IDA Detection"
 
-"libc memory detection"
+"libc Memory Detection"
 
 "Unidbg Detection"
 
-"Key function inlinehook&got table detection"
+"Key function inlinehook & got table detection"
 
 "Anti-Debugging Detection"
 
