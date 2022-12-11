@@ -3,13 +3,13 @@ Collection of Some Publically Available POC Apps to Detect Root/Magisk presence.
 
 These applications have following detections:
 
-Detect Magisk -
+Detect Magisk(com.darvin.security) -
 ```sh
 "Magisk Detection"
 "MagiskHide Detection"
 ```
 
-Hunter -
+Hunter(com.zhenxi.hunter) -
 ```sh
 "Apk Signature Verification"
 "Magisk & Root Detection"
@@ -24,13 +24,13 @@ Hunter -
 "Custom ROM Detection"
 ```
 
-Magisk Detector -
+Magisk Detector(icu.nullptr.nativetest) -
 ```sh
 "Magisk Detection"
 "Magisk Hide Detection"
 ```
 
-Momo -
+Momo(io.github.vvb2060.mahoshojo) -
 ```sh
 "Frida Detection"
 "Magisk Detection"
@@ -44,7 +44,7 @@ Momo -
 "Custom ROM Detection"
 ``` 
 
-SafeCheck -
+SafeCheck(com.ysh.hookapkverify) -
 ```sh
 "Application Signature Detection"
 "Magisk SU Detection"
