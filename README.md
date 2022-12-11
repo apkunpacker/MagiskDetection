@@ -37,3 +37,13 @@ Momo -
 "Package Manager abnormal Detection"
 "Custom ROM Detection"
 ``` 
+
+SafeCheck -
+```sh
+"Application Signature Detection"
+"Magisk SU Detection"
+"Syscall Hook Detection"
+"MagiskHide Detection"
+"Zygisk Detection"
+"Riru Detection"
+```
