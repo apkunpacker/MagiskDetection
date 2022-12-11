@@ -24,6 +24,8 @@ Hunter -
 "ISO strong detection"
 
 "Magisk hide detection"
+
+"Custom ROM Detection"
 ```
 
 Magisk Detector -
@@ -35,6 +37,8 @@ Magisk Detector -
 
 Momo -
 ```sh
+"Frida Detection"
+
 "Magisk Detection"
 
 "Zygisk Detection"
@@ -48,4 +52,8 @@ Momo -
 "Bootloader Detection"
 
 "System Files Modified By Magisk Detection"
+
+"Package Manager abnormal Detection"
+
+"Custom ROM Detection"
 ``` 
