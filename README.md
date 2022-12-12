@@ -61,6 +61,15 @@ Oprek Detector(com.godevelopers.OprekCek) -
 "Xposed Detection"
 ```
 
+Rootbeer Sample(com.scottyab.rootbeer.sample) -
+```sh
+"Root Specific Apps Checks"
+"SU Binary Check"
+"Magisk Detection"
+"Prop Detection"
+"SELinux State Detection"
+```
+
 Ruru(com.byxiaorun.detector) -
 ```sh
 "Root Specific Apps Check w/o Syscalls"
