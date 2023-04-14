@@ -30,6 +30,12 @@ Magisk Detector(io.github.vvb2060.magiskdetector) -
 "Magisk Hide Detection"
 ```
 
+MinotaurPoc(icu.nullptr.nativetest) -
+```sh
+"Magisk Detection"
+"Zygisk Detection"
+```
+
 Momo(io.github.vvb2060.mahoshojo) -
 ```sh
 "Frida Detection"
@@ -98,6 +104,7 @@ SHA256 of Each Files(Just to trace them back on VT/Koodous or somewhere else)
 52141ed109fb3e199d714deb99f0f794706de8420b180872c9801dbf247dbb80
 a327f0ce5af72ee53cbd39d93c41d4c7ab8cd931ccd128c2d4cc89d41ee20b80
 f150900a62a651899cee8767adaf057ff83b3b383400eb198a9ae3cb698409a8
+b4a3b33a3b3a9c423543bda59e0c9b1c5b74799da4c4ed272ff7971ecd3c8264
 4605779cf733995d0a26cca54ab055d5cecbcf68fd710f5c7a4cb2e230826717
 91da21e8a9103b283e0dba45e708af0ca94dd93eefe95740e87708937743e06d
 3f027fbd5320f4def0271cf5425abe8a9081f655507236a1d4ceee8795d1f310
