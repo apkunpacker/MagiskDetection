@@ -3,6 +3,11 @@ Collection of Some Publically Available POC Apps to Detect Root/Magisk presence.
 
 These applications have following detections:
 
+APTest (me.garfieldhan.hiapatch) -
+```sh
+"Detect APatch ( https://github.com/bmax121/APatch )
+```
+
 Detect Magisk(com.darvin.security) -
 ```sh
 "Magisk Detection"
@@ -101,6 +106,7 @@ SafeCheck(com.ysh.hookapkverify) -
 SHA256 of Each Files(Just to trace them back on VT/Koodous or somewhere else)
 
 ```sh
+8a39869f0ace5a2e624f2392b0b15d813306d0589a43bed99090e9e0dbf2d086
 52141ed109fb3e199d714deb99f0f794706de8420b180872c9801dbf247dbb80
 a327f0ce5af72ee53cbd39d93c41d4c7ab8cd931ccd128c2d4cc89d41ee20b80
 1ed654af2f99cf60c51e125d5a1ee3a9e3c7b37854c1f5862fcb49ecccff5ec9
