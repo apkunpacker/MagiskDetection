@@ -5,7 +5,7 @@ These applications have following detections:
 
 APTest (me.garfieldhan.hiapatch) -
 ```sh
-"Detect APatch ( https://github.com/bmax121/APatch )
+"Detect APatch" ( https://github.com/bmax121/APatch )
 ```
 
 Detect Magisk(com.darvin.security) -
