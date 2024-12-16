@@ -101,6 +101,20 @@ SafeCheck(com.ysh.hookapkverify) -
 "Zygisk Detection"
 "Riru Detection"
 ```
+Native Root Detector -
+```sh
+"Magisk Detection"
+"Magisk SU Detection"
+"Zygisk Detection"
+"Zygisk-Assistant Detection"
+"Possibly Denylist Detection"
+"KernelSU Detection"
+"APatch Detection"
+"LSPosed Detection"
+"Custom Rom Detection"
+"Leaked Keybox Detection"
+"Bootloader Detection"
+```
 
 
 SHA256 of Each Files(Just to trace them back on VT/Koodous or somewhere else)
@@ -118,4 +132,5 @@ b4a3b33a3b3a9c423543bda59e0c9b1c5b74799da4c4ed272ff7971ecd3c8264
 607ec962ba93cc9817129cb693ff0f335f500a297b5a297e71fbb998d0f6849c
 066802ca09fe49ee9b62c4d94fd232886251d386baca010753d9975e201d3429
 7844448585ee7357aba550c5cde03a3b5e9a247dc36c5fc79fa73905fb3a4ccf
+6b6017ef1d2c8e48a805beddb9ffb844d2a6dfc0e16dfd073195cba410fd0128
 ```
