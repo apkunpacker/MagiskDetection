@@ -114,6 +114,7 @@ Native Root Detector -
 "Custom Rom Detection"
 "Leaked Keybox Detection"
 "Bootloader Detection"
+"Root Management app installed detection"
 ```
 
 
