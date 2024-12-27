@@ -62,7 +62,7 @@ NativeTest(icu.nullptr.nativetest) -
 "Magisk Hide Detection"
 
 Updated Version v30
-
+https://play.google.com/store/apps/details?id=icu.nullptr.nativetest
 "Detect Everything. Literally - Reverse it to find cutting edge detection ideas"
 ```
 
