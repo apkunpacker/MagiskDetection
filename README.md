@@ -60,6 +60,10 @@ NativeTest(icu.nullptr.nativetest) -
 ```sh
 "Magisk Detection"
 "Magisk Hide Detection"
+
+Updated Version v30
+
+"Detect Everything. Literally - Reverse it to find cutting edge detection ideas"
 ```
 
 Oprek Detector(com.godevelopers.OprekCek) -
@@ -150,4 +154,5 @@ b4a3b33a3b3a9c423543bda59e0c9b1c5b74799da4c4ed272ff7971ecd3c8264
 6b6017ef1d2c8e48a805beddb9ffb844d2a6dfc0e16dfd073195cba410fd0128
 972d7f538dd4f27644b84cb8fbb9b3f176320455e83b1c69b29c999f55dc3258
 843f8360000daa6554ba0e83116bc90e2eb69f39c93c8254ab3c5fd78d15d369
+5b2cb3b3203cb0cb4e59235fca7d728dfeaba1467e045699625671bc1ede4f67
 ```
