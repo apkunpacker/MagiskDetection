@@ -125,8 +125,10 @@ Holmes -
 JingMatrix Demo
 ```sh
 "Detect library injection in memory using maps/module counter"
-Source is at https://github.com/JingMatrix/Demo
-and if main repo is deleted in any case then fork can be found at https://github.com/apkunpacker/JingMatrixDemo
+
+Source - https://github.com/JingMatrix/Demo
+and if main repo is deleted in any case then fork can be found at
+https://github.com/apkunpacker/JingMatrixDemo
 ```
 
 
