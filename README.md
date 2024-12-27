@@ -122,6 +122,13 @@ Holmes -
 "Detect Everything. Literally - Reverse it to find cutting edge detection ideas"
 ```
 
+JingMatrix Demo
+```sh
+"Detect library injection in memory using maps/module counter"
+Source is at https://github.com/JingMatrix/Demo
+and if main repo is deleted in any case then fork can be found at https://github.com/apkunpacker/JingMatrixDemo
+```
+
 
 SHA256 of Each Files(Just to trace them back on VT/Koodous or somewhere else)
 
@@ -140,4 +147,5 @@ b4a3b33a3b3a9c423543bda59e0c9b1c5b74799da4c4ed272ff7971ecd3c8264
 7844448585ee7357aba550c5cde03a3b5e9a247dc36c5fc79fa73905fb3a4ccf
 6b6017ef1d2c8e48a805beddb9ffb844d2a6dfc0e16dfd073195cba410fd0128
 972d7f538dd4f27644b84cb8fbb9b3f176320455e83b1c69b29c999f55dc3258
+843f8360000daa6554ba0e83116bc90e2eb69f39c93c8254ab3c5fd78d15d369
 ```
