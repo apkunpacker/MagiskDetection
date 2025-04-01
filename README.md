@@ -119,6 +119,10 @@ Native Root Detector -
 "Leaked Keybox Detection"
 "Bootloader Detection"
 "Root Management app installed detection"
+
+Source - https://github.com/reveny/Android-Native-Root-Detector-Private
+(You don't have access obviously)
+
 ```
 
 Holmes -
