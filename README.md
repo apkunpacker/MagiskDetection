@@ -8,6 +8,29 @@ APTest (me.garfieldhan.hiapatch) -
 "Detect APatch" ( https://github.com/bmax121/APatch )
 ```
 
+CrackME (com.kikyps.crackme) - 
+```sh
+"Anti Hooking"
+"Dynamic tamper detection (e.g Code Patching)"
+"Anti FRIDA"
+"Anti Stackplz"
+"Anti Debugging & Breakpoint (Java & Native)"
+"Anti Emulation"
+"Root Detection"
+"Certificate Signature Integrity"
+"Emulator/Virtual Machine Detection"
+"Game Engine Protection - Anti Cheat"
+"Memory Patch Detection"
+"Dalvik code patch detection"
+"Screen Protection"
+"Auto Clicker & Overlay attacks Detection"
+"Fake GPS Detection"
+"String Encryption (Java Layer Protection)"
+"Control Flow Obfuscation (Java Layer Protection)"
+"HTTP Capture Detection"
+"Certificate SSL Pinning"
+```
+
 Detect Magisk(com.darvin.security) -
 ```sh
 "Magisk Detection"
