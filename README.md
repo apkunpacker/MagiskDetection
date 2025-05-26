@@ -39,6 +39,7 @@ Detect Magisk(com.darvin.security) -
 ```
 
 DetectZ (com.test.detectz)
+
 Source - https://github.com/apkunpacker/DetectZygisk
 ```sh
 "Detect Zygisk forks - which are ptrace based"
