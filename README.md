@@ -38,6 +38,15 @@ Detect Magisk(com.darvin.security) -
 "Magisk Hide Detection"
 ```
 
+DetectZ (com.test.detectz)
+Source - https://github.com/apkunpacker/DetectZygisk
+```sh
+"Detect Zygisk forks - which are ptrace based"
+"Detect - https://github.com/PerformanC/ReZygisk"
+"Detect - https://github.com/Dr-TSNG/ZygiskNext"
+"Detect - https://github.com/JingMatrix/NeoZygisk"
+```
+
 Hunter(com.zhenxi.hunter) -
 ```sh
 "Apk Signature Verification"
