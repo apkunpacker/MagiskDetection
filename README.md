@@ -1,14 +1,19 @@
 # MagiskDetection
 Collection of Some Publically Available POC Apps to Detect Root/Magisk presence. 
 
-> ⚠️ **Disclaimer / Warning**
+> ⚠️ **Disclaimer**
 >
-> This repository contains files collected from various external sources.  
-> **I am not the owner or creator of any of the files unless explicitly stated.**  
-> All copyrights and ownership belong to their respective authors.
+> This repository contains files obtained from various external sources.  
+> **I am not the owner or original creator of these files unless explicitly stated.**  
+> All rights, copyrights, and credits belong to their respective authors.
 >
-> The files are provided *as-is* for educational and archival purposes only.  
-> **Use, download, or distribute these files at your own risk.** 
+> The materials are provided *as-is* for educational and archival purposes only.  
+> **Use, download, or redistribute the files strictly at your own risk.**
+>
+> Encrypted archive password (where applicable): **infected**
+>
+> Please note that the files have **not been verified for safety or scanned for malware**, and I cannot guarantee their integrity.  
+> Exercise caution when opening or executing any content.
 
 These applications have following detections:
 
