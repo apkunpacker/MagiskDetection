@@ -1,6 +1,15 @@
 # MagiskDetection
 Collection of Some Publically Available POC Apps to Detect Root/Magisk presence. 
 
+> ⚠️ **Disclaimer / Warning**
+>
+> This repository contains files collected from various external sources.  
+> **I am not the owner or creator of any of the files unless explicitly stated.**  
+> All copyrights and ownership belong to their respective authors.
+>
+> The files are provided *as-is* for educational and archival purposes only.  
+> **Use, download, or distribute these files at your own risk.** 
+
 These applications have following detections:
 
 APTest (me.garfieldhan.hiapatch) -
