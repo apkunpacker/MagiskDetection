@@ -1,6 +1,12 @@
 # MagiskDetection
 Collection of Some Publically Available POC Apps to Detect Root/Magisk presence. 
 
+Most frequent updates for various poc are available on telegram channel
+
+https://t.me/root_hook_poc
+
+
+
 > ⚠️ **Disclaimer**
 >
 > This repository contains files obtained from various external sources.  
