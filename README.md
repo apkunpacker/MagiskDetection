@@ -16,6 +16,12 @@ https://t.me/root_hook_poc
 
 These applications have following detections:
 
+DuckDetector Source
+
+Repo - https://github.com/eltavine/Duck-Detector-Refactoring
+If repo deleted , find fork here 
+https://github.com/apkunpacker/Duck-Detector-Refactoring
+
 APTest (me.garfieldhan.hiapatch) -
 ```sh
 "Detect APatch" ( https://github.com/bmax121/APatch )
